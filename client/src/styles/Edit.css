@@ -1,0 +1,43 @@
+.form {
+  display: block;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.form__input {
+  display: block;
+  margin-bottom: 5px;
+  width: 100%;
+  padding: 10px 7px;
+  border: 2px solid #ddd;
+  background-color: #fff;
+  border-radius: 5px;
+  border-bottom: 1px solid #ccc;
+}
+
+.dish__desc {
+  /* width: 100%; */
+  display: block;
+  margin-bottom: 5px;
+  width: 100%;
+  padding: 10px 7px;
+  border: 2px solid #ddd;
+  background-color: #fff;
+  border-radius: 5px;
+  border-bottom: 1px solid #ccc;
+}
+
+.form__btn {
+  width: 100%;
+  display: block;
+  background-color: #555;
+  border: 0;
+  color: #fff;
+  border-radius: 5px;
+  padding: 7px 0;
+  cursor: pointer;
+}
+
+.form__cat-file {
+  justify-content: space-between;
+}

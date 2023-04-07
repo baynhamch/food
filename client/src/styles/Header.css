@@ -1,0 +1,20 @@
+/* header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+header a {
+  text-decoration: none;
+}
+
+header nav {
+  display: flex;
+  gap: 15px;
+  justify-content: space-between;
+}
+div.header__profilebox {
+  background-color: aqua;
+
+  text-align: center;
+  margin-bottom: 20px;
+} */

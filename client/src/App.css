@@ -1,0 +1,90 @@
+* {
+  box-sizing: border-box;
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: inherit;
+}
+main {
+  padding: 3px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+/*
+
+form.register {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+
+textarea {
+  display: block;
+  margin-bottom: 15px;
+  width: 100%;
+  padding: 20px 10px;
+  border: 2px solid #ddd;
+  background-color: #fff;
+  border-radius: 5px;
+  border-bottom: 1px solid #ccc;
+}
+
+button {
+  width: 100%;
+  display: block;
+  background-color: #555;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 7px 0;
+  color: white;
+}
+.register-page__link {
+  display: flex;
+  align-items: center;
+}
+.register-page__link a {
+  margin-left: 5px;
+}
+
+.search-container form {
+  display: flex;
+  width: 300px;
+}
+.search-container input {
+  width: 100%;
+  background-color: #8d6464;
+}
+.search-container input {
+  display: block;
+  margin-bottom: 15px;
+  width: 100%;
+  padding: 10px 7px;
+  border: 2px solid #ddd;
+  background-color: #fff;
+  border-radius: 5px;
+  border-bottom: 1px solid #ccc;
+}
+
+.comment-box {
+  display: flex;
+}
+.comment-box p {
+  padding: 5px;
+}
+
+.form {
+  display: block;
+  margin-bottom: 5px;
+  width: 100%;
+  padding: 10px 7px;
+  border: 2px solid #ddd;
+  background-color: #fff;
+  border-radius: 5px;
+  border-bottom: 1px solid #ccc;
+} */

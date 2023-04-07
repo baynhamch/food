@@ -1,0 +1,48 @@
+.comment-box {
+  border-top: 0.5px solid grey;
+  margin: 10px;
+}
+.food-img {
+  max-width: 500px;
+}
+.food-page__title {
+  margin-bottom: 20px;
+}
+.comment-box__info {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+}
+.comment-box__info p {
+  margin-right: 30px;
+}
+.food-page {
+  margin-top: 20px;
+}
+.comment-container {
+  margin-top: 40px;
+}
+
+.comment-box__info {
+  display: block;
+}
+
+/* svg {
+  background-color: aqua;
+} */
+.savebtn {
+  max-width: 20px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  border: 1px solid saddlebrown;
+}
+.reveiwbtn {
+  border: 1px solid palegreen;
+  width: 140px;
+  text-align: center;
+}
+.food-actions {
+  border: solid 1px aqua;
+
+  height: 100px;
+}

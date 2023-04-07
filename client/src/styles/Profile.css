@@ -1,0 +1,32 @@
+.profile-container {
+  background-color: rgb(193, 193, 193);
+  padding-top: 15px;
+}
+
+.profile-container img {
+  margin: 10px;
+}
+
+.profile-container__head {
+  display: flex;
+}
+
+.profile-container__info {
+  display: flex;
+  justify-content: space-between;
+  widows: 100%;
+  padding-top: 10px;
+}
+
+.fav-foods {
+  margin-top: 20px;
+  border-top: 1px solid black;
+}
+.fav-food__list-item {
+  display: flex;
+  border: 1px solid orange;
+  padding: 10px;
+}
+.fav-food__img {
+  max-height: 75px;
+}
